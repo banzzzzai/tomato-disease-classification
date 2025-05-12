@@ -1,0 +1,7 @@
+matplotlib==3.10.1
+opencv-python==4.11.0.86
+scikit-learn==1.6.1
+tqdm==4.67.1
+tensorboard==2.19.0
+torch==2.7.0
+torchvision==0.22.0
